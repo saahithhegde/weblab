@@ -1,0 +1,33 @@
+<?xml-stylesheet type="text/css" href="lab5.css"?>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<h1> STUDENTS DESCRIPTION </h1>
+	</head>
+	<students>
+	<student>
+	<USN> USN: 1BI15CS120</USN>
+	<name> NAME: PRAVEEN KAMATE </name>
+	<college> COLLEGE:BIT </college>
+	<branch> BRANCH: COMPUTER SCIENCE AND ENGINEERING </branch>
+	<year> YEAR: 2015 </year>
+	<e-mail> E-MAIL: pk@gmail.com </e-mail>
+	</student>
+	<student>
+	<USN> USN: 1BI15CS133</USN>
+	<name> NAME: RITESH RAJ </name>
+	<college> COLLEGE:BIT </college>
+	<branch> BRANCH: COMPUTER SCIENCE AND ENGINEERING </branch>
+	<year> YEAR: 2015 </year>
+	<e-mail> E-MAIL: rr@gmail.com </e-mail>
+	</student>
+	<student>
+	<USN> USN: 1BI1CS135</USN>
+	<name> NAME: SAAHITH HEGDE </name>
+	<college> COLLEGE:BIT </college>
+	<branch> BRANCH: COMPUTER SCIENCE AND ENGINEERING </branch>
+	<year> YEAR: 2015 </year>
+	<e-mail> E-MAIL:sh@gmail.com </e-mail>
+	</student>
+	</students>
+</html>
